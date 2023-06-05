@@ -1,2 +1,2 @@
-# ChatGalatica
-this project is depluy Galatica Model LLM Scale in Mirco-Services Arch
+# Nano-LVM implemenrarion 
+this project is showcase of Vision-Language model of VQA Task Using Transformer and Per-Trained Model Large Langauge model LLM please it will be realised soon 
